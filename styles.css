@@ -1,0 +1,24 @@
+h1{
+    color:hwb(59 11% 0%);
+    background-color: rgb(226, 14, 14);
+    border-radius: 50px;
+    width:600px;
+}
+h2{
+    color:#fbda46;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/05/12/17/41/forest-3394066_1280.jpg);  
+    background-position: var(background-size);
+    background-size: calc(1400px);
+    background-repeat: no-repeat;
+    }
+img{
+    margin-top: 20px;
+    margin-left: 190px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    border:5px solid #0b22ec;
+}
+
